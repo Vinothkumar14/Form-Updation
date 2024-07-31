@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Form%20Updation/static/css/main.e5795941.css",
+    "main.js": "/Form%20Updation/static/js/main.365c8ac2.js",
+    "index.html": "/Form%20Updation/index.html",
+    "main.e5795941.css.map": "/Form%20Updation/static/css/main.e5795941.css.map",
+    "main.365c8ac2.js.map": "/Form%20Updation/static/js/main.365c8ac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5795941.css",
+    "static/js/main.365c8ac2.js"
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Form-Updation/static/css/main.e5795941.css",
-    "main.js": "/Form-Updation/static/js/main.365c8ac2.js",
+    "main.js": "/Form-Updation/static/js/main.96e4adce.js",
     "index.html": "/Form-Updation/index.html",
     "main.e5795941.css.map": "/Form-Updation/static/css/main.e5795941.css.map",
-    "main.365c8ac2.js.map": "/Form-Updation/static/js/main.365c8ac2.js.map"
+    "main.96e4adce.js.map": "/Form-Updation/static/js/main.96e4adce.js.map"
   },
   "entrypoints": [
     "static/css/main.e5795941.css",
-    "static/js/main.365c8ac2.js"
+    "static/js/main.96e4adce.js"
   ]
 }
